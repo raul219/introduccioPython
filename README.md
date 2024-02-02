@@ -10,3 +10,4 @@ Benvinguts al meu repositori de programes de Python
 - [bateria1](bateria1.py)
 - [bateria1_2](bateria1_2.py)
 - [bateria1_3](bateria1_3.py)
+- [bateria1_3](bateria1_4.py)
