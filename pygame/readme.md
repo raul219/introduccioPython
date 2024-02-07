@@ -4,4 +4,4 @@ En aquest projecte farem una nau
 
 # Sprites
 
-![Nave Espacial](nave_espacial.avif)
+![Nave espacial](nave_espacial.avif)
