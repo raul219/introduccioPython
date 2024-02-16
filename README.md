@@ -11,4 +11,4 @@ Benvinguts al meu repositori de programes de Python
 - [bateria1_2](bateria1_2.py)
 - [bateria1_3](bateria1_3.py)
 - [bateria1_4](bateria1_4.py)
-- [Bateria 5 - Llistes](Bateria 5 - Llistes.py)
+- [bateria19](bateria19.py)
