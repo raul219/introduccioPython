@@ -6,4 +6,4 @@ En aquest projecte farem una nau
 
 ![nave-espacial2](nave-espacial2.png)
 ![pixilart-drawing](pixilart-drawing.png)
-![Nave espacial1](Naveespacial1.png)
+![NaveEspacial1.png](NaveEspacial1.png)
