@@ -4,5 +4,5 @@ En aquest projecte farem una nau
 
 # Sprites
 
-![NaveEspacial](NaveEspacial.png)
+![nave-espacial2](nave-espacial2.png)
 ![pixilart-drawing](pixilart-drawing.png)
